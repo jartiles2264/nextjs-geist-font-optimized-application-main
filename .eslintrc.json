@@ -1,0 +1,7 @@
+{
+    "rules": {
+        "prefer-const": "warn",
+        "@typescript-eslint/no-unused-vars": "warn",
+        "@typescript-eslint/no-empty-interface": "warn"
+    }
+}
